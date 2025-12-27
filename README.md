@@ -410,10 +410,9 @@ After completing this course, you will:
 
 **Ready to Begin Your Journey?**
 
-1. **Install Claude Code:** Follow the installation guide
+1. **[Install Claude Code](https://github.com/anthropics/claude-code):** Follow the installation guide
 2. **Run your first session:** Start with `claude`
-3. **Complete Module 1:** Begin with the basics
-4. **Join the community:** Connect with other learners
+3. **[Complete Module 1](module-01-welcome-to-claude-code.md):** Begin with the basics
 
 ---
 
@@ -444,11 +443,10 @@ Each module includes hands-on challenges that get progressively harder:
 
 ## Need Help?
 
-- **Documentation:** Check official docs for detailed guides
+- **[Documentation](https://github.com/anthropics/claude-code):** Check official docs for detailed guides
 - **[Troubleshooting Guide](supplement-troubleshooting.md):** Common issues and solutions
 - **[Quick Reference](supplement-quick-reference.md):** Cheat sheet for common tasks
-- **Community:** Ask questions in Discord or forums
-- **GitHub Issues:** Report bugs or request features
+- **[GitHub Issues](https://github.com/anthropics/claude-code/issues):** Report bugs or request features
 
 ---
 
