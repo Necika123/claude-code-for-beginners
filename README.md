@@ -497,6 +497,6 @@ Claude Code makes it possible for anyone to create professional software. This c
 
 ---
 
-*Last updated: December 2024*
+*Last updated: December 2025*
 
 </div>
